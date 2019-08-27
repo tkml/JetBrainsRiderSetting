@@ -1,0 +1,7 @@
+<keymap version="1" name="VSCode コピー" parent="VSCode">
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="shift f12" />
+  </action>
+  <action id="RestoreDefaultLayout" />
+</keymap>
