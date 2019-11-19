@@ -1,6 +1,5 @@
 <application>
   <component name="GeneralSettings">
-    <option name="confirmExit" value="false" />
     <option name="reopenLastProject" value="false" />
     <option name="showTipsOnStartup" value="false" />
   </component>
@@ -13,12 +12,11 @@
     <entry key="ide.win.file.chooser.native" value="true" />
     <entry key="ide.tree.horizontal.default.autoscrolling" value="false" />
     <entry key="search.everywhere.settings" value="true" />
-    <entry key="performance.watcher.sampling.interval.ms" value="100" />
-    <entry key="performance.watcher.unresponsive.interval.ms" value="500" />
+    <entry key="performance.watcher.sampling.interval.ms" value="200" />
+    <entry key="performance.watcher.unresponsive.interval.ms" value="1000" />
+    <entry key="rider.enable.designer.winForms" value="false" />
     <entry key="ide.borderless.title.project.path" value="false" />
     <entry key="ide.borderless.title.classpath" value="false" />
     <entry key="ide.borderless.title.product" value="false" />
-    <entry key="actionSystem.fix.alt.gr" value="false" />
-    <entry key="rider.enable.designer.winForms" value="false" />
   </component>
 </application>
