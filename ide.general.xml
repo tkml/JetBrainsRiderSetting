@@ -19,6 +19,5 @@
     <entry key="ide.borderless.title.classpath" value="false" />
     <entry key="ide.borderless.title.product" value="false" />
     <entry key="rider.enable.designer.winForms" value="false" />
-    <entry key="actionSystem.fix.alt.gr" value="false" />
   </component>
 </application>
